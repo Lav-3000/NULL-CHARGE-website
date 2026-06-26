@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wiki\\.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\controls.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wiki\\controls.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wiki.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,32 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".html",
-              "DocumentMoniker": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\.html",
-              "RelativeDocumentMoniker": "wiki\\.html",
-              "ToolTip": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\.html",
-              "RelativeToolTip": "wiki\\.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Title": "controls.html",
+              "DocumentMoniker": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\controls.html",
+              "RelativeDocumentMoniker": "wiki\\controls.html",
+              "ToolTip": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki\\controls.html",
+              "RelativeToolTip": "wiki\\controls.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-26T05:03:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wiki.html",
+              "DocumentMoniker": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki.html",
+              "RelativeDocumentMoniker": "wiki.html",
+              "ToolTip": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wiki.html",
+              "RelativeToolTip": "wiki.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-06-26T04:45:23.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-06-20T17:32:43.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "wow.css",
               "DocumentMoniker": "C:\\Users\\leviw\\OneDrive\\Documents\\GitHub\\NULL-CHARGE-website\\wow.css",
               "RelativeDocumentMoniker": "wow.css",
