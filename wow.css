@@ -1,0 +1,35 @@
+h1 {
+	font-family: 'VCR OSD Mono', sans-serif;
+	text-align: center;
+	color: #0f0;
+}
+
+p {
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: #111;
+}
+
+.header {
+	background-color: #070;
+	margin: -8px -8px 0px -8px;
+	font-size: 60px;
+}
+
+a {
+	color: #0af;
+}
+
+iframe {
+	margin: 0 auto;
+	display: block;
+	border-style: none;
+}
+
+div {
+	text-align: center;
+}
